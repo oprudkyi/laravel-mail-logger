@@ -36,7 +36,7 @@ Once Laravel Mail Logger is installed, you need to register the service provider
 
 Open up `config/app.php` and add the following to the `providers` key:
 
-* `Oprudkyi\LaravelMailLogger\MailLoggerServiceProvider::class`
+* `Oprudkyi\LaravelMailLogger\MailLoggerServiceProvider::class,`
 
 ## Configuration
 

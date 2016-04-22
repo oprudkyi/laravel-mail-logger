@@ -1,0 +1,26 @@
+{
+    "name": "oprudkyi/laravel-mail-logger",
+    "description": "Enable debugging/logging communication with mail servers for Laravel 5.*",
+    "keywords": ["laravel", "email", "log", "swiftmailer", "debug"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksii Prudkyi",
+            "email": "Oleksii.Prudkyi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.0.*|5.1.*|5.2.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Oprudkyi\\LaravelMailLogger\\": "src/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

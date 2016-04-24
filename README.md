@@ -17,7 +17,7 @@ the require block of your composer.json file:
 
     {
         "require": {
-                "oprudkyi/laravel-mail-logger": "^0.1"
+                "oprudkyi/laravel-mail-logger": "^1.0"
         }
 
     }

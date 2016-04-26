@@ -7,7 +7,7 @@ It's built as simple wrapper over [Swift_Plugins_Logger](http://swiftmailer.org/
 ## About
 
 - uses Log::info() for logging
-- enable/disale via .env
+- enable/disable via .env
 
 ## Installation
 

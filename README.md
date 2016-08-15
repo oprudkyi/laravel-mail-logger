@@ -55,4 +55,4 @@ to get some help to deliver tests.
 
 ## License
 
-Laravel User Verification is licensed under [The MIT License (MIT)](LICENSE).
+Laravel Mail Logger is licensed under [The MIT License (MIT)](LICENSE).
